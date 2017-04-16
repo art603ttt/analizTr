@@ -1,0 +1,13 @@
+c:\users\arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.exe.config
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.pdb
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\bin\Debug\MetroFramework.dll
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.csprojResolveAssemblyReference.cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form1.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Properties.Resources.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.csproj.GenerateResource.Cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.pdb
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_avtoriz.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_regist.resources
