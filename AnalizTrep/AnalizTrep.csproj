@@ -58,6 +58,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="my forms\Form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="my forms\Form_main.Designer.cs">
+      <DependentUpon>Form_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="my classes\Something\Instrument.cs" />
+    <Compile Include="my classes\Something\Medecine.cs" />
+    <Compile Include="my classes\Client\Clientt.cs" />
+    <Compile Include="my classes\Client\directory.cs" />
+    <Compile Include="my classes\Company\Ambry.cs" />
+    <Compile Include="my classes\Company\Company.cs" />
     <Compile Include="my forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,8 +88,15 @@
     <Compile Include="my forms\Form_regist.Designer.cs">
       <DependentUpon>Form_regist.cs</DependentUpon>
     </Compile>
+    <Compile Include="my classes\Company\Pharmasy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="my classes\Client\Provider.cs" />
+    <Compile Include="my classes\Client\Vet.cs" />
+    <Compile Include="my classes\Something\Something.cs" />
+    <EmbeddedResource Include="my forms\Form_main.resx">
+      <DependentUpon>Form_main.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="my forms\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <None Include="Resources\zagruzhennoe11.jpg" />
     <None Include="Resources\zagruzhennoe1.jpg" />
   </ItemGroup>
   <ItemGroup />

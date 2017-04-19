@@ -11,3 +11,17 @@ C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\
 C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.pdb
 C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_avtoriz.resources
 C:\Users\Arthas\documents\visual studio 2015\Projects\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_regist.resources
+E:\GITHUB\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.exe.config
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.exe
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.pdb
+E:\GITHUB\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.exe
+E:\GITHUB\AnalizTrep\AnalizTrep\bin\Debug\AnalizTrep.pdb
+E:\GITHUB\AnalizTrep\AnalizTrep\bin\Debug\MetroFramework.dll
+E:\GITHUB\AnalizTrep\AnalizTrep\bin\Debug\MetroFramework.Fonts.dll
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.csprojResolveAssemblyReference.cache
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form1.resources
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_avtoriz.resources
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_regist.resources
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Properties.Resources.resources
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.csproj.GenerateResource.Cache
+E:\GITHUB\AnalizTrep\AnalizTrep\obj\Debug\AnalizTrep.Form_main.resources

@@ -32,6 +32,9 @@
             this.metroButton_reg = new MetroFramework.Controls.MetroButton();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.metroButton1 = new MetroFramework.Controls.MetroButton();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -42,6 +45,7 @@
             this.metroButton_avtoriz.Size = new System.Drawing.Size(126, 48);
             this.metroButton_avtoriz.TabIndex = 0;
             this.metroButton_avtoriz.Text = "Авторизация";
+            this.metroButton_avtoriz.Click += new System.EventHandler(this.metroButton_avtoriz_Click);
             // 
             // metroButton_reg
             // 
@@ -50,6 +54,7 @@
             this.metroButton_reg.Size = new System.Drawing.Size(126, 48);
             this.metroButton_reg.TabIndex = 1;
             this.metroButton_reg.Text = "Регистрация";
+            this.metroButton_reg.Click += new System.EventHandler(this.metroButton_reg_Click);
             // 
             // metroLabel1
             // 
@@ -62,23 +67,54 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::AnalizTrep.Properties.Resources.zagruzhennoe1;
-            this.pictureBox1.Location = new System.Drawing.Point(298, 268);
+            this.pictureBox1.Image = global::AnalizTrep.Properties.Resources.zagruzhennoe11;
+            this.pictureBox1.Location = new System.Drawing.Point(309, 289);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(181, 269);
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
+            // 
+            // metroButton1
+            // 
+            this.metroButton1.Location = new System.Drawing.Point(23, 368);
+            this.metroButton1.Name = "metroButton1";
+            this.metroButton1.Size = new System.Drawing.Size(75, 23);
+            this.metroButton1.TabIndex = 4;
+            this.metroButton1.Text = "Cтатистика";
+            this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(20, 342);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(76, 13);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "--не доделана";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(68, 378);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(142, 13);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "сделать в отдельном окне";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(484, 414);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.metroButton1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroButton_reg);
             this.Controls.Add(this.metroButton_avtoriz);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -91,6 +127,9 @@
         private MetroFramework.Controls.MetroButton metroButton_reg;
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private MetroFramework.Controls.MetroButton metroButton1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
